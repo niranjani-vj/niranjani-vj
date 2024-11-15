@@ -51,16 +51,6 @@
   🌟 Exploring modern frameworks to build scalable and secure APIs.
 </p>
 
----
-
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">✨ Fun Facts</h2>
-<p align="center" style="font-family: 'Comic Sans MS', sans-serif;">
-  🎵 Big fan of Taylor Swift’s "Fake it till you make it" philosophy.<br>
-  🎯 Dreaming big while building apps that make an impact.<br>
-  🎬 Binge-watcher of Vampire Diaries and an avid reader.<br>
-</p>
-
----
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">🤝 Let's Connect</h2>
 <p align="center">
